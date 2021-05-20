@@ -1,0 +1,118 @@
+.section_descrive{
+ padding-top: 80px;
+ padding-bottom:80px;;
+}
+.our_works_{
+    display:flex;
+}
+.open__part{
+    width: 50%;
+    box-sizing: border-box;
+}
+.works__right__part{
+    background: rgb(8, 8, 8);
+}
+.works__right__part h5{
+    padding:10px;
+    color: #ffff;
+    font-weight: bold;
+    text-shadow: darkgrey;
+    margin-left:50px;
+}
+.works__right__part p{
+    color: rgb(223, 217, 217);
+    border-left:1px dashed #fff;
+    margin:0px 20px 0px 25px;
+
+}
+.button__part{
+    width: 90%;
+    display:flex;
+    border:1px solid rgb(56, 56, 58);
+    border-radius: 15px;
+    padding: 1px auto;
+    margin: 15px 20px;
+    text-align: left;
+    background: rgb(32, 32, 32);
+    color:#fff;
+}
+.button__part:hover{
+    background:rgb(51, 58, 59);
+}
+.button__part a{
+    text-decoration: none;
+    color:rgb(3, 185, 55);
+    padding: 3px;
+}
+.button__part a:hover{
+    color:#fff;
+}
+.button__part span{
+    color:red;
+    margin-right: 2px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+.buton_for_top{
+    padding:5px auto;
+}
+.incress_button{
+
+}
+.dicress_button{
+    display:none;
+}
+
+
+
+
+
+/*.button1_first_part{
+    background: rgb(7, 7, 32);
+    padding:20px;
+    overflow: hidden;
+    display: flex;
+}
+.button1_first_part h5{
+    
+}
+.button1_first_part p{
+    
+}
+
+.button1_first_part button{
+    width: 100%;
+    border:1px solid rgb(56, 56, 58);
+    border-radius: 15px;
+    padding: 1px auto;
+    margin: 12px auto;
+    text-align: left;
+}
+.button1_first_part button:hover{
+    background: rgb(53, 52, 126);
+}
+.button1_first_part button a{
+   text-decoration: none;
+   color:#fff;
+   font-size:12px;
+}
+.button1_first_part button a:hover{
+    color:wheat;
+ }
+.box_right .button__1{
+    background:rgb(35, 167, 172);
+}
+.box_right .button__2{
+    background:rgb(27, 23, 46);
+}
+.box_right span{
+    color:red;
+    margin-right: 2px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+.fa{
+    text-align: right;
+    font-size:10px;
+    align-content:right;
+}*/
